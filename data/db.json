@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "revisi 1",
+      "post": "revisi 1",
+      "date": "May 25, 2023 4:00:36 PM"
+    },
+    {
+      "id": 3,
+      "title": "test",
+      "post": "test ",
+      "date": "June 07, 2023 10:33:36 PM"
+    }
+  ]
+}
